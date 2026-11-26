@@ -1,1 +1,2 @@
 This is squash and merge file
+This is updated text
